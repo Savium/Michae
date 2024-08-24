@@ -28,13 +28,13 @@ authenticated_users = {}
 photourl = "https://t.me/MM_5_1/2"
 admin_chat_id = ida
 user_data = {}
-TOKEN = "6736219238:AAEHPF-QFTCf2501fZcdcNvETqhdByMTgtU"
+TOKEN = "6736219238:AAFTa0HPojZpVkOUrXQf7P8eUJEc2Q2HnmA"
 token = TOKEN
 admin = ida
 
 
 ADMIN_ID = ida
-CHANNELS = [ "@ElZAEM_Team","@TGT_3","@KingsNet70"] 
+CHANNELS = [ "@ElZAEM_Team","@passward_Amr"] 
 
 
 
